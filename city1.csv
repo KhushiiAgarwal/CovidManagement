@@ -1,0 +1,11 @@
+City_name,population_affected,recovered_cases,Death,Active_cases
+"Mumbai",33559,18000,4194,11365
+"Delhi",24236,17802,881,5553
+"Pune",20979,17600,556,2823
+"Jaipur",8979,6032,107,2840
+"Ahmedabad",15931,7522,56,8353
+"Bangalore",15667,2166,25,13476
+"Kannur",4318,3577,63,2048
+"Amritsar",13469,12647,144,678
+"Lucknow",13011,11005,786,1220
+
