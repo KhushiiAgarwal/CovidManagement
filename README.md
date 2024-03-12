@@ -21,7 +21,7 @@ A basic self test for user to diagnose if any symptom of covid might be present 
   OR
 
   ```
-  import matplotlib.pyplot 
+  pip install matplotlib.pyplot 
   ```
 * Ensure the correct CSV file is present in same folder & give correct path of CSV file.
 * Run the program
